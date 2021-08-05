@@ -1,8 +1,10 @@
 import requests
+import os
 import time
 
+access_token=os.environ["BOT_TOKEN"]
 l = [
-    ["ODQzNTkxNTE0MzU2NzExNDQ0.YKGF8w.N2Avi3ntHmLuUTSxNO464NRR6Ro", "871382298040336414"]
+    [acess_token, "871382298040336414"]
 ]
 
 while True:

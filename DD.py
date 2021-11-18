@@ -4,7 +4,7 @@ import time
 
 access_token=os.environ["BOT_TOKEN"]
 l = [
-    [access_token, "761462422275096579"]
+    [access_token, "910540882829271100"]
 ]
 
 while True:
